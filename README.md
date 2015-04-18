@@ -1,7 +1,7 @@
 ![midas](assets/images/logo.png) [![Build Status](https://travis-ci.org/18F/midas.png?branch=master)](https://travis-ci.org/18F/midas) [![Dependency Status](https://gemnasium.com/18F/midas.png)](https://gemnasium.com/18F/midas)
 =====
 
-### Midas is a “Kickstarter for people’s time.”
+### Midas is “TaskRabbit for large organizations.”
 
 Here’s how Midas works: You come up with a great idea that would help your workplace, but you and your coworkers don’t have the skills to execute it. Rather than bringing in a contractor, you can post your project idea to Midas, where other people within your organization can see it and then work on it, if they’d like.
 
